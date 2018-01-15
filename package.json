@@ -1,0 +1,23 @@
+{
+  "name": "00-node-beginner-book-401-prework",
+  "version": "1.0.0",
+  "description": "Node Beginner Book Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strawbee/node-beginner-book-401-prework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strawbee/node-beginner-book-401-prework/issues"
+  },
+  "homepage": "https://github.com/strawbee/node-beginner-book-401-prework#readme",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
+}
